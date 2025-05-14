@@ -1,28 +1,26 @@
-# 🐧 How to Install Ubuntu on Updated VirtualBox
+# 🐧 How to Install Ubuntu on VirtualBox
 
-This guide provides step-by-step instructions for installing **Ubuntu** on the latest version of **VirtualBox**, with helpful screenshots to make the process easier.
-
-📄 The full blog is available as a PDF and can be viewed directly in your browser.
-
-## 🔗 View Blog
-
-[📘 View "How to Install Ubuntu on updated VirtualBox" (PDF)](./How%20to%20Install%20Ubuntu%20on%20updated%20VirtualBox.pdf)
+This guide shows step-by-step how to install Ubuntu in the latest version of VirtualBox with helpful screenshots.
 
 ---
 
-## 📌 What’s Inside
+## 📄 Blog PDF Preview
 
-- Downloading VirtualBox (latest version)
-- Downloading Ubuntu ISO
-- Creating a new virtual machine
-- Configuring settings for Ubuntu
-- Installing Ubuntu step-by-step
-- Fixing common issues (e.g., screen resolution, Guest Additions)
+> Click the box below to **view** the full PDF in your browser.
+
+<div style="border: 1px solid #ccc; border-radius: 8px; padding: 16px; background-color: #f9f9f9;">
+  <a href="./How_to_Install_Ubuntu_on_VirtualBox.pdf" target="_blank">
+    📘 <strong>How to Install Ubuntu on VirtualBox</strong><br>
+    <em>Step-by-step guide with screenshots (PDF)</em>
+  </a>
+</div>
 
 ---
 
-## 📥 About This Repository
+## 📋 Summary
 
-This repository is part of my technical blog archive where I publish how-to guides and tutorials in **PDF format with visuals** for better clarity and offline access.
-
-Stay tuned for more!
+- Download VirtualBox
+- Download Ubuntu ISO
+- Create and configure a virtual machine
+- Install Ubuntu with screenshots
+- Troubleshooting tips
