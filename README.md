@@ -1,4 +1,4 @@
-# 🐧 How to Install Ubuntu on VirtualBox
+# 🐧 How to Install Ubuntu on Updated VirtualBox
 
 This guide shows step-by-step how to install Ubuntu in the latest version of VirtualBox with helpful screenshots.
 
